@@ -55,6 +55,13 @@ a:hover{
     background-size: cover;
 }
 
+.small_herobg{
+    width: 100%
+    background: url(images/small_header-bg.jpg);
+    background-size: cover;
+    height: 40vh;
+}
+
 
 .herobg h1{
     font-family: 'Raleway', sans-serif;
