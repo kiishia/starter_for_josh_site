@@ -45,8 +45,11 @@
       <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
  
+<!---
     <link rel="stylesheet" href="style.css" />
       <link rel="stylesheet" href="responsive.css" />
+-->
+      
 <?php wp_head(); ?> 
 <!--      very important this is added -->
       
@@ -84,7 +87,7 @@
     
     
     <div class='container'>
-        <h1>Games Design for the future</h1>
+    
     </div>
       
       </header>
